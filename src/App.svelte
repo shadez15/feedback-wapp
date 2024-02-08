@@ -19,5 +19,5 @@
 
 </main>
 <footer class="container">
-		<p>Made with <a  href="https://svelte.dev/tutorial">Svelte</a></p>
+		<p>Made with <a  href="https://svelte.dev/docs/introduction">Svelte</a></p>
 </footer>
